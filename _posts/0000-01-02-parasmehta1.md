@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Look up at the stars and not down at your feet
 Use the left arrow to go back!
